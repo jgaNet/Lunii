@@ -1,0 +1,1 @@
+export { shortUrlRouter } from "./shorturl";
